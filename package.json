@@ -1,0 +1,22 @@
+{
+  "name": "exam-helper",
+  "version": "1.0.0",
+  "description": "A full stack web app for exam management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-fulop/Exam-Helper.git"
+  },
+  "author": "Alex & Umesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-fulop/Exam-Helper/issues"
+  },
+  "homepage": "https://github.com/alex-fulop/Exam-Helper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
